@@ -5,31 +5,30 @@ permalink: /
 
 # Course Syllabus
 
-**University of xxx**
+**Excelsior College**
 
-**College**
+**School of Whatever**
 
-**Unit**
+**COELAS**
 
-## Course Number: Course Title
+## ID201: Accessibility in Online Courses
 
-**Semester Year**
+**Now**
 
 
-**Instructor: **Dr. ××**   
-**Office**: Building Number  
-**Email**:  
+**Instructor: **EB**   
+**Office**: Online!  
+**Email**:  ebid@nowhere.com
 
 **Phone**:  
-**Office Hours**: Date, Time, Location  
+**Office Hours**: per request  
 
 [Every Tuesday at 4:00 p.m. CST
 or by appointment or Virtual office hours available]
 
-**Learning Management System**:  
+**Learning Management System**:  Blackboard
 
-**Other**: [Action Center, Course Web Site, Other contact
-information]  
+**Other**: None, good to go
 
   
 **Course Meeting Time and Location**: _Online_
@@ -61,14 +60,14 @@ _Put learning outcomes under categories if you have a long list of outcomes._
 ·     
 _Consider including how each Learning Outcome will be assessed._
 
-### Texts and Materials:
+### Texts and Materials: Everything that we need is on the web.
 
 _List all of the text(s), materials, and any software for the course.  Be specific as to whether the item is required, recommended, or optional. It is not mandatory to have a required text for your course.  Follow the format customary to your discipline._
 
 _If you have a long list of readings, please use an Appendix at the back of the syllabus._  
   
 
-### Teaching Philosophy:
+### Teaching Philosophy: For you to learn!
 
 _Telling students what teaching methods you will use in class and the rationale behind them will help them set realistic expectations. Providing your rationale can decrease student resistance to teaching methods that they may be less familiar and can increase their confidence in the processes in the course._
 
@@ -86,7 +85,7 @@ _Provide a short description of the learning activities and assessments that wil
  
 
 **Assessments** 
-
+No assessments.  No one likes tests.
  
 
 **Learning Outcomes**
@@ -94,11 +93,11 @@ _Provide a short description of the learning activities and assessments that wil
  
 
 **Learning Activities**
-
+Everything in this course will be hands-on.
  
 
 **Quiz (every 2 Weeks)**
-
+Self-quizzes.  Must receive a 100% to move on to your assignments but the grade won't factor in to your final grade.
  
 
 ** Journal or Blogs**
@@ -106,7 +105,7 @@ _Provide a short description of the learning activities and assessments that wil
  
 
 **Online Discussions**
-
+Yes, lots.
  
 
 **Reaction Papers (Monthly)**
